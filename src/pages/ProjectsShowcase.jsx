@@ -5,7 +5,7 @@ const projectsData = [
     name: "Titan Eye+",
     category: "Multi-location Optical Stores",
     images: [
-      "https://res.cloudinary.com/dsgwuim2d/image/upload/v1734775991/Titan-1_xiq8cp.png",
+      "https://res.cloudinary.com/dsgwuim2d/image/upload/v1734776466/Titan-1_komrex.png",
       "https://res.cloudinary.com/dsgwuim2d/image/upload/v1734776466/Titan-2_dp3jn4.png",
       "https://res.cloudinary.com/dsgwuim2d/image/upload/v1734776466/Titan-3_zmmwbc.png",
     ],
