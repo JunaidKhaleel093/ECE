@@ -20,7 +20,7 @@ import Homeoffice from "./pages/Homeoffice";
 import About from "./pages/About";
 
 import Archi from "./pages/Archi";
-import ContactSection from "./pages/Contactsection";
+import ContactSection from "./pages/ContactSection";
 
 import KidsSpace from "./pages/KidsSpace";
 import Outdoor from "./pages/Outdoor";
