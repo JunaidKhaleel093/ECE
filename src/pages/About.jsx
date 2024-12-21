@@ -21,7 +21,7 @@ const aboutImages = {
   projects: [
     "https://res.cloudinary.com/dsgwuim2d/image/upload/v1734778722/GM-1_nje8j2.png",
     "https://res.cloudinary.com/dsgwuim2d/image/upload/v1734777492/Hyder-3_t8fepd.png",
-    "https://res.cloudinary.com/dsgwuim2d/image/upload/v1734777254/GAP-1_wl5jif.png",
+    "https://res.cloudinary.com/dsgwuim2d/image/upload/v1734777254/GAP-1_wl5jif.png ",
   ],
 };
 
